@@ -1,4 +1,4 @@
-# Curso de PHP: Do Zero ao Avançado 🚀
+# Curso de PHP 🚀
 
 Este repositório contém todo o material do curso **PHP do Zero ao Avançado**, cobrindo desde os conceitos básicos até práticas avançadas. O objetivo é oferecer uma base sólida para iniciantes e aprofundar os conhecimentos de quem deseja dominar o PHP no desenvolvimento web.
 
